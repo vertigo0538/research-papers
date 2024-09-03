@@ -1,6 +1,8 @@
 # long-term-effects-of-pair-programming
 Long Term Effects of Pair Programming의 연구 자료 요약
 
+[블로그 글](https://www.growandglow.co.kr/effects-of-pair-programming)
+
 ## 서론
 Long term effects of partner programming in an introductory computer science sequence에서는 CS2에서의 협업이 CS3에서의 학생 성과에 미치는 영향을 조사했는데, 특정 GPA 그룹에 대한 결론을 도출할 수 있었지만, CS3 일반 학생 집단에 대한 결론을 도출할 수 없었다고 합니다.
 
