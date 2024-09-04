@@ -2,6 +2,8 @@
 
 [The importance of percent-done progress indicators for computer-human interfaces | Proceedings of the SIGCHI Conference on Human Factors in Computing Systems](https://dl.acm.org/doi/10.1145/317456.317459)
 
+도허티 임계점에 대한 블로그 작성을 위해 참고한 논문입니다. 1985년에 발표된 논문으로, 컴퓨터 프로그램의 진행률 표시기가 사용자 인터페이스에 미치는 영향에 대해 논의합니다.
+
 ## 요약
 'percent-done progress indicator(진행률 표시기)는 사용자가 작업 처리의 진행 상황을 모니터링할 수 있도록 하는 그래픽 기술입니다. 이 표시기는 거의 모든 종류의 출력 장치에 표시될 수 있으며, 다양한 프로그램에서 사용할 수 있습니다. 실무 경험과 공식 실험 결과, 진행률 표시기는 중요하고 유용한 사용자 인터페이스 도구이며, 이를 통합한 프로그램의 매력과 효율성을 높인다는 것이 입증되었습니다. **이 논문에서는 진행률 표시기가 왜 중요한지에 대해 논의합니다.** 여기에는 진행률 표시기와  관련된 공식 실험 결과가 포함됩니다.
 
