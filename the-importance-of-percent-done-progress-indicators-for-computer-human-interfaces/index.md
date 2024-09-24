@@ -154,7 +154,7 @@
 > • **최신 효과(Recency Effect)**: 마지막으로 제시된 정보가 더 잘 기억되거나 더 강한 영향을 미치는 경향입니다. 이 경우에는 첫 번째 사용 시스템이 아닌 두 번째 시스템이 더 긍정적으로 평가되었을 때 적용될 수 있습니
 
 ## 4. Interpretation of Advantages of Progress Indicators(진행률 표시기의 장점에 대한 해석)
-이 섹션에서는 사람들이 왜 진행률 표시기가 있는 버전을 선호하는지에 대한 몇 가지 설명을 제안하려고 합니다. 애플리케이션은 일반적으로 명령을 분석하고 이해한 후에야 진행률 표시기를 표시하기 때문에, 진행률 표시기는 Miller(1968)가 나열한 다음과 같은 중요한 메시지를 제공합니다.
+이 섹션에서는 사람들이 왜 진행률 표시기가 있는 버전을 선호하는지에 대한 몇 가지 설명을 제안하려고 합니다. 애플리케이션은 일반적으로 명령을 분석하고 이해한 후에야 진행률 표시기를 표시하기 때문에, 진행률 표시기는 [Miller(1968)가 나열한 다음과 같은 중요한 메시지](https://github.com/vertigo0538/research-papers/blob/main/response-time-in-man-computer-conversational-transactions%20/index.md#2-a-response-signal-can-communicate-several-messages-at-the-same-time)를 제공합니다.
 
 사용자는
 1. 자신의 요청이 수신되었고
